@@ -1,0 +1,5 @@
+Django 
+Django REST Framework
+Mysql Connector
+django-bootstrap3
+django-debug-toolbar
